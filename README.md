@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+We're getting married!
 
-You can use the [editor on GitHub](https://github.com/mookerzhou/the_marriage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Schedule
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| | |
+| ------------- |:-------------:|
+|    |  Wednesday, 2020 April 1 	|
+| TBD | Dinner at our home! |
+| | |
+|    |  Thursday, 2020 April 2 	|
+| 1:00PM | Buro and Maggie Arrive at City Hall, Marriage Portraits |
+| 2:30PM | Family Arrive at City Hall |
+| 3:00PM | Family Portraits |
+| 3:30PM | Civil Commitment Ceremony |
+| 4:00PM | Exit from City Hall |
+| 7:00PM | Dinner (Location TBD!) |
+| | |
+|    | Friday, 2020 April 2 	|
+| TBD | TBD |
+| | |
 
-### Markdown
+## Registry
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We kindly ask that you make donations to the following organizatins
 
-```markdown
-Syntax highlighted code block
+- [The Interational Rescue Committee](https://www.rescue.org/)
 
-# Header 1
-## Header 2
-### Header 3
+## Getting to the Venue, Getting around SF
 
-- Bulleted
-- List
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d788.3660302139727!2d-122.41960648038364!3d37.77916158228222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb2706dff83574f4a!2sSan%20Francisco%20City%20Hall!5e0!3m2!1sen!2sus!4v1583093188369!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
-1. Numbered
-2. List
+## What to do in SF?
 
-**Bold** and _Italic_ and `Code` text
+- Golden Gate Park
+- The Garden for the Environment
 
-[Link](url) and ![Image](src)
-```
+### FAQ
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* What do we do about Coronavirus?
 
-### Jekyll Themes
+We are closely monitoring the situation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mookerzhou/the_marriage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In the event of
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For any questions not covered, please contact [Buro](mailto:mookerji@gmail.com)
+and [Maggie](mailto:emmbeezee@gmail.com).
