@@ -1,7 +1,7 @@
 We're getting married!
 
 ## Schedule
-<center>
+
 
 | | |
 | ------------- |:-------------:|
@@ -19,8 +19,6 @@ We're getting married!
 |    | Friday, 2020 April 2 	|
 | TBD | TBD |
 | | |
-
-</center>
 
 (All times are PST.)
 
