@@ -5,10 +5,10 @@ We're getting married!
 
 | | |
 | ------------- |:-------------:|
-|    |  Wednesday, 2020 April 1 	|
+|    |  **Wednesday, 2020 April 1** 	|
 | 7:00PM | Dinner at our home! |
 | | |
-|    |  Thursday, 2020 April 2 	|
+|    |  **Thursday, 2020 April 2** 	|
 | 1:00PM | Buro and Maggie Arrive at City Hall, Marriage Portraits |
 | 2:30PM | Family Arrive at City Hall |
 | 3:00PM | Family Portraits |
@@ -16,7 +16,7 @@ We're getting married!
 | 4:00PM | Exit from City Hall |
 | 7:00PM | Dinner (Location TBD!) |
 | | |
-|    | Friday, 2020 April 2 	|
+|    | **Friday, 2020 April 2** 	|
 | TBD | TBD |
 | | |
 
