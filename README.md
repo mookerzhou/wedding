@@ -100,7 +100,7 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 [covid-19]: https://www.cdc.gov/coronavirus/2019-ncov/summary.html
 
 <br />
-## SEE YOU SOON!
+## SEE YOU SOON! 💍
 
 |   <!-- -->            |     <!-- --> |
 :-------------------------:|:-------------------------:
