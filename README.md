@@ -32,7 +32,6 @@ pass through security.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d788.3660302139727!2d-122.41960648038364!3d37.77916158228222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb2706dff83574f4a!2sSan%20Francisco%20City%20Hall!5e0!3m2!1sen!2sus!4v1583093188369!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" align="middle"></iframe>
 <br /><br />
-[city_hall]: https://www.nytimes.com/2011/08/21/us/21bcintel.html
 
 ## What to do (and what to avoid) in SF?
 
@@ -46,6 +45,7 @@ Market Street corridor during the business week.
 
 [gfe]: https://www.gardenfortheenvironment.org/
 [sf_map]: https://www.google.com/maps/d/u/1/edit?hl=en&mid=1i1y9zUZi0Qa98VZmPFJftnVRfzKyWrYX&ll=37.77388907581863%2C-122.46138887960802&z=16
+[city_hall]: https://www.nytimes.com/2011/08/21/us/21bcintel.html
 
 <br />
 ## Photos
@@ -71,15 +71,17 @@ we recommend making a donation to any of the following organizations:
 
 ### [Coronavirus][covid-19]?
 
-We are closely monitoring the news about Coronavirus in the Bay Area: **please
-let us know if you have any concerns**. We expect airlines to restrict domestic
-air travel into San Francisco if the situation deteriorates. If we feel that
-travel to SF poses a danger, we will reschedule the civil ceremony for later in
-2020.
+We are closely monitoring the news about Coronavirus in the Bay Area and are
+taking all possible recautions: **please let us know if you have any
+concerns**. We expect airlines to restrict domestic air travel into San
+Francisco if the situation deteriorates. If we feel that travel to SF poses a
+danger, we will reschedule the civil ceremony for later in 2020.
 
-Check the [SFDPH status page][sfdph] for local updates.
+Check the [SFDPH status page][sfdph] for local updates, and the [SFDPH][recs]
+for current recommendations about traveling.
 
 [sfdph]: https://www.sfdph.org/dph/alerts/coronavirus.asp
+[recs]: https://www.sfdph.org/dph/alerts/coronavirus-faq.asp
 
 ### What should I wear?
 
