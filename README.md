@@ -1,5 +1,6 @@
 We're getting married!
 
+<br />
 ## Schedule
 
 
@@ -21,6 +22,7 @@ We're getting married!
 
 (All times are PST.)
 
+<br />
 ## The Ceremony
 
 The civil ceremony will be held at or near [the Grand Staircase][city_hall] in
@@ -45,6 +47,7 @@ Market Street corridor during the business week.
 [gfe]: https://www.gardenfortheenvironment.org/
 [sf_map]: https://www.google.com/maps/d/u/1/edit?hl=en&mid=1i1y9zUZi0Qa98VZmPFJftnVRfzKyWrYX&ll=37.77388907581863%2C-122.46138887960802&z=16
 
+<br />
 ## Photos
 
 We'll share photos of the City Hall event in this [album][album], and will send
@@ -53,6 +56,7 @@ out print copies when they are available. Please upload any photos to the
 
 [album]: https://photos.app.goo.gl/TmqBUNtuzrUn7Dxd8
 
+<br />
 ## Registry
 
 We do not have a registry and actually have no room for gifts! Your presence is
@@ -62,6 +66,7 @@ we recommend making a donation to any of the following organizations:
 - [The Interational Rescue Committee](https://www.rescue.org/)
 - [Larkin Street Youth Services](https://larkinstreetyouth.org/)
 
+<br />
 ## FAQ
 
 ### [Coronavirus][covid-19]?
@@ -86,7 +91,8 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 
 [covid-19]: https://www.cdc.gov/coronavirus/2019-ncov/summary.html
 
-### SEE YOU SOON!
+<br />
+## SEE YOU SOON!
 
 |   <!-- -->            |     <!-- --> |
 :-------------------------:|:-------------------------:
