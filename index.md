@@ -122,10 +122,10 @@ we recommend making a donation to any of the following organizations:
 ### [Coronavirus][covid-19]?
 
 We are closely monitoring the news about Coronavirus in the Bay Area and are
-taking all possible recautions: **please let us know if you have any
+taking all possible precautions: **please let us know if you have any
 concerns**. We expect airlines to restrict domestic air travel into San
-Francisco if the situation deteriorates. If we feel that travel to SF poses a
-danger, we will reschedule the civil ceremony for later in 2020.
+Francisco if the situation deteriorates. **If we feel that travel to SF poses a
+danger, we will reschedule the civil ceremony for later in 2020.**
 
 Check the [SFDPH status page][sfdph] for local updates, and the [SFDPH][recs]
 for current recommendations about traveling.
