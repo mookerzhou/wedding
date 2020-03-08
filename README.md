@@ -7,7 +7,7 @@
 <br />
 ## Schedule
 
-<table style="border-style: hidden; background-color: white" width="80%">
+<table style="border-style: hidden; background-color: white" width="70%">
   <tbody>
     <tr class="noBorder" style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
@@ -142,6 +142,15 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 <br />
 ## SEE YOU SOON! 💍
 
-|   <!-- -->            |     <!-- --> |
-:-------------------------:|:-------------------------:
-<img src="assets/zmagg.gif" alt="zmagg" width="100%"/> | <img src="assets/mookerji-flipped.gif" alt="buro" width="100%"/>
+<table style="border-style: hidden; background-color: white">
+  <tbody>
+    <tr class="noBorder" style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">
+        <img src="assets/zmagg.gif" alt="zmagg" width="100%"/>
+      </td>
+      <td style="text-align: center; border-style: hidden;">
+        <img src="assets/mookerji-flipped.gif" alt="buro" width="100%"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
