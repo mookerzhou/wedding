@@ -1,4 +1,6 @@
-We're getting married!
+![delicious](assets/asparagus.jpg)
+
+**We're getting married!**
 
 <br />
 ## Schedule
