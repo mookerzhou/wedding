@@ -1,4 +1,4 @@
-![delicious](assets/asparagus.jpg)
+![delicious](assets/asparagus.jpg =250x)
 
 **We're getting married!**
 
@@ -100,4 +100,4 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 
 |   <!-- -->            |     <!-- --> |
 :-------------------------:|:-------------------------:
-![](assets/mookerji.gif)  |  ![](assets/zmagg.gif)
+![](assets/mookerji.gif =250x)  |  ![](assets/zmagg.gif =250x)
