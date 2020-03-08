@@ -78,3 +78,9 @@ For any questions not covered, please contact [Buro](mailto:mookerji@gmail.com)
 and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 
 [covid-19]: https://www.cdc.gov/coronavirus/2019-ncov/summary.html
+
+### SEE YOU SOON!
+
+|   <!-- -->            |     <!-- --> |
+:-------------------------:|:-------------------------:
+![](assets/mookerji.gif)  |  ![](assets/zmagg.gif)
