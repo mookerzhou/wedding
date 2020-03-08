@@ -7,81 +7,58 @@
 <br />
 ## Schedule
 
-<style>
-    th {
-        display: none;
-    }
-</style>
-
-| <!-- -->  | <!-- -->  |
-| ------------- |:-------------:|
-|    |  **Wednesday, 2020 April 1** 	|
-| 7:00PM | Dinner at our home! |
-| | |
-|    |  **Thursday, 2020 April 2** 	|
-| 1:00PM | Buro and Maggie @ City Hall, Marriage Portraits |
-| 2:30PM | Family Arrive @ City Hall |
-| 3:00PM | Family Portraits |
-| 3:30PM | Civil Commitment Ceremony |
-| 4:00PM | Exit from City Hall |
-| 6:00PM | Dinner (Location TBD!) |
-| | |
-|    | **Friday, 2020 April 2** 	|
-| TBD | TBD |
-
-
-<table style="border-style: hidden; background-color: white">
+<table style="border-style: hidden; background-color: white" width="80%">
   <tbody>
     <tr class="noBorder" style="background-color: white">
-      <td style="border-style: hidden;"> </td>
+      <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"><strong>Wednesday, 2020 April 1</strong></td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">7:00PM</td>
+      <td style="border-style: hidden; text-align: center;">7:00PM</td>
       <td style="text-align: center; border-style: hidden;">Dinner at our home!</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;"> </td>
+      <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"> </td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;"> </td>
+      <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"><strong>Thursday, 2020 April 2</strong></td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">1:00PM</td>
+      <td style="border-style: hidden; text-align: center;">1:00PM</td>
       <td style="text-align: center; border-style: hidden;">Buro and Maggie @ City Hall, Marriage Portraits</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">2:30PM</td>
+      <td style="border-style: hidden; text-align: center;">2:30PM</td>
       <td style="text-align: center; border-style: hidden;">Family Arrive @ City Hall</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">3:00PM</td>
+      <td style="border-style: hidden; text-align: center;">3:00PM</td>
       <td style="text-align: center; border-style: hidden;">Family Portraits</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">3:30PM</td>
+      <td style="border-style: hidden; text-align: center;">3:30PM</td>
       <td style="text-align: center; border-style: hidden;">Civil Commitment Ceremony</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">4:00PM</td>
+      <td style="border-style: hidden; text-align: center;">4:00PM</td>
       <td style="text-align: center; border-style: hidden;">Exit from City Hall</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">6:00PM</td>
+      <td style="border-style: hidden; text-align: center;">6:00PM</td>
       <td style="text-align: center; border-style: hidden;">Dinner (Location TBD!)</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;"> </td>
+      <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"> </td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;"> </td>
+      <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"><strong>Friday, 2020 April 2</strong></td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden;">TBD</td>
+      <td style="border-style: hidden; text-align: center;">TBD</td>
       <td style="text-align: center; border-style: hidden;">TBD</td>
     </tr>
   </tbody>
