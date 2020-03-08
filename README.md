@@ -54,7 +54,7 @@ Market Street corridor during the business week.
 [city_hall]: https://www.nytimes.com/2011/08/21/us/21bcintel.html
 
 <br />
-## Photos
+## Photos 📷
 
 We'll share photos of the City Hall event in this [album][album], and will send
 out print copies when they are available. Please upload any photos to the
