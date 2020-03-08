@@ -35,7 +35,7 @@ location. You will need to enter on Polk Street; please allow enough time to
 pass through security.
 <br /><br />
 <div style="text-align:center">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d788.3660302139727!2d-122.41960648038364!3d37.77916158228222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb2706dff83574f4a!2sSan%20Francisco%20City%20Hall!5e0!3m2!1sen!2sus!4v1583093188369!5m2!1sen!2sus" width="100%" frameborder="0" style="border:0;" allowfullscreen="" align="middle"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d788.3660302139727!2d-122.41960648038364!3d37.77916158228222!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb2706dff83574f4a!2sSan%20Francisco%20City%20Hall!5e0!3m2!1sen!2sus!4v1583093188369!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" align="middle"></iframe>
 </div>
 <br /><br />
 
