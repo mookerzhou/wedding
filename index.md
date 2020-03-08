@@ -14,7 +14,7 @@
       <td style="text-align: center; border-style: hidden;"><strong>Wednesday, 2020 April 1</strong></td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">7:00PM</td>
+      <td style="border-style: hidden; text-align: center;">6:00PM</td>
       <td style="text-align: center; border-style: hidden;">Dinner at our home!</td>
     </tr>
     <tr style="background-color: white">
@@ -26,12 +26,16 @@
       <td style="text-align: center; border-style: hidden;"><strong>Thursday, 2020 April 2</strong></td>
     </tr>
     <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">10:00AM</td>
+      <td style="text-align: center; border-style: hidden;">Buro and Maggie getting ready, TBD location</td>
+    </tr>
+    <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">1:00PM</td>
       <td style="text-align: center; border-style: hidden;">Buro and Maggie @ City Hall, Marriage Portraits</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">2:30PM</td>
-      <td style="text-align: center; border-style: hidden;">Family Arrive @ City Hall</td>
+      <td style="text-align: center; border-style: hidden;">Family Arrive @ City Hall (that's you!)</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">3:00PM</td>
@@ -39,7 +43,7 @@
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">3:30PM</td>
-      <td style="text-align: center; border-style: hidden;">Civil Commitment Ceremony</td>
+      <td style="text-align: center; border-style: hidden;">Civil Marriage Ceremony</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">4:00PM</td>
@@ -47,7 +51,7 @@
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">6:00PM</td>
-      <td style="text-align: center; border-style: hidden;">Dinner (Location TBD!)</td>
+      <td style="text-align: center; border-style: hidden;">Dinner (Location and time TBD!)</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
@@ -97,7 +101,7 @@ Market Street corridor during the business week.
 ## Photos
 
 We'll share photos of the City Hall event in this [album][album], and will send
-out print copies when they are available. Please upload any photos to the
+out print copies when they are available. Please upload any photos you take to the
 [album][album].
 
 [album]: https://photos.app.goo.gl/TmqBUNtuzrUn7Dxd8
@@ -141,6 +145,8 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 
 <br />
 ## SEE YOU SOON! 💍 {#hammer-time}
+
+Here are some gifs of us making our wedding rings to warm your heart!
 
 <table style="border-style: hidden; background-color: white">
   <tbody>
