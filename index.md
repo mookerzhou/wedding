@@ -92,7 +92,7 @@ Park* and at the [*Garden for the Environment*][gfe]. We've also made [**this
 map**][sf_map] for key locations and recommendations during the week and will
 rent a car to ferry folks around.
 
-We **strongly recommend** that you avoid Downtown, Fisherman's Wharf, and the
+We **strongly recommend that you avoid** Downtown, Fisherman's Wharf, and the
 Market Street corridor during the business week.
 
 [gfe]: https://www.gardenfortheenvironment.org/
@@ -136,8 +136,8 @@ FAQ][recs] for current recommendations about traveling.
 [sfdph]: https://www.sfdph.org/dph/alerts/coronavirus.asp
 [recs]: https://www.sfdph.org/dph/alerts/coronavirus-faq.asp
 
-### How should I get to city hall? 
-San Francisco City Hall is located in a very car-congested and limited parking area. We strongly encourage you to take Lyft/Uber from where you're staying, as it'll be the fastest, easiest, and cheapest way to the venue. 
+### How should I get to city hall?
+San Francisco City Hall is located in a very car-congested and limited parking area. We strongly encourage you to take Lyft/Uber from where you're staying, as it'll be the fastest, easiest, and cheapest way to the venue.
 
 ### What should I wear?
 
