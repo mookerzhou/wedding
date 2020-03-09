@@ -150,7 +150,7 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 [covid-19]: https://www.cdc.gov/coronavirus/2019-ncov/summary.html
 
 <br />
-## 💍SEE YOU SOON! {#hammer-time}
+## 💍 SEE YOU SOON! {#hammer-time}
 
 Here are some gifs of us [making our wedding rings][diy] to warm your heart!
 
