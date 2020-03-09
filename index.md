@@ -3,7 +3,7 @@
 </div>
 <br />
 <div style="text-align:center">
-**We're getting married!**
+    <strong>We're getting married!</strong>
 </div>
 <br />
 <br />
