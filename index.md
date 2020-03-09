@@ -5,7 +5,7 @@
 **We're getting married!**
 <br />
 <br />
-## Schedule
+## 📅Schedule
 
 <table style="border-style: hidden; background-color: white" width="70%">
   <tbody>
@@ -71,7 +71,7 @@
 (All times are PST.)
 
 <br />
-## The Ceremony
+## 👰🏻🤵🏾The Ceremony
 
 The civil ceremony will be held *at or near* [the Grand Staircase][city_hall] in
 SF City Hall; the judge performing the civil ceremony will choose the ultimate
@@ -83,7 +83,7 @@ near the Grand Staircase. Please allow enough time to pass through security.
 </div>
 <br /><br />
 
-## What to do (and what to avoid) in SF?
+## 🌉What to do (and what to avoid) in SF?
 
 If you do nothing else while in town, we suggest spending time in *Golden Gate
 Park* and at the [*Garden for the Environment*][gfe]. We've also made [**this
@@ -98,7 +98,7 @@ Market Street corridor during the business week.
 [city_hall]: https://www.nytimes.com/2011/08/21/us/21bcintel.html
 
 <br />
-## Photos
+## 📸Photos
 
 We'll share photos of the City Hall event in this [album][album], and will send
 out print copies when they are available. Upload any photos you take to the
@@ -134,6 +134,9 @@ FAQ][recs] for current recommendations about traveling.
 [sfdph]: https://www.sfdph.org/dph/alerts/coronavirus.asp
 [recs]: https://www.sfdph.org/dph/alerts/coronavirus-faq.asp
 
+### How should I get to city hall? 
+San Francisco City Hall is located in a very car-congested and limited parking area. We strongly encourage you to take Lyft/Uber from where you're staying, as it'll be the fastest, easiest, and cheapest way to the venue. 
+
 ### What should I wear?
 
 Layers! San Francisco is chilly most of the year; we recommend bringing a jacket
@@ -145,7 +148,7 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 [covid-19]: https://www.cdc.gov/coronavirus/2019-ncov/summary.html
 
 <br />
-## SEE YOU SOON! 💍 {#hammer-time}
+## 💍SEE YOU SOON! {#hammer-time}
 
 Here are some gifs of us [making our wedding rings][diy] to warm your heart!
 
