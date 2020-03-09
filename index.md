@@ -109,7 +109,7 @@ out print copies when they are available. Upload any photos you take to the
 [album]: https://photos.app.goo.gl/TmqBUNtuzrUn7Dxd8
 
 <br />
-## Registry
+## 📋 Registry
 
 We do not have a registry and actually have no room for gifts! Your presence is
 the greatest gift to us. Should you still feel the need to make a contribution,
@@ -119,7 +119,7 @@ we suggest making a donation to any of the following organizations:
 - [Larkin Street Youth Services](https://larkinstreetyouth.org/)
 
 <br />
-## FAQ
+## 🤔 FAQ
 
 ### [Coronavirus][covid-19]?
 
