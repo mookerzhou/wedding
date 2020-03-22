@@ -9,9 +9,10 @@
 <br />
 ## 📅 Schedule
 
-California is under a [shelter-in-place order][shelter] until April 7, 2020. We
-are postponing this event until the public health emergency has passed and it is
-once again safe to travel. Please take all possible precautions to stay safe.
+California is under a [shelter-in-place order][shelter] until April
+7, 2020. **We are postponing this event** until the public health emergency has
+passed and it is once again safe to travel. Please take all possible precautions
+to stay safe.
 
 **New date is TBD.**
 
@@ -133,15 +134,9 @@ we suggest making a donation to any of the following organizations:
 
 ### [Coronavirus][covid-19]?
 
-<s>We are closely monitoring the news about Coronavirus in the Bay Area and are
-taking all possible precautions: **please let us know your concerns**. We expect
-airlines to restrict domestic air travel into San Francisco if the situation
-deteriorates. **If we feel that travel to SF poses a danger, we will reschedule
-the civil ceremony for later in 2020.** We will make that decision no later than
-March 26.</s>
-
-Check the [SFDPH status page][sfdph] for local updates. <s>, and the [SFDPH
-FAQ][recs] for current recommendations about traveling.</s>
+We are closely monitoring the news about Coronavirus in the Bay Area and are
+taking all possible precautions. Check the [SFDPH status page][sfdph] for local
+updates.
 
 [sfdph]: https://www.sfdph.org/dph/alerts/coronavirus.asp
 [recs]: https://www.sfdph.org/dph/alerts/coronavirus-faq.asp
