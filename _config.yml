@@ -4,3 +4,6 @@ author:
   name:  '\0/ Buro and Maggie <3'
 timezone: UTC−07:00
 logo: /assets/images/favicon.png
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
