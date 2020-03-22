@@ -11,7 +11,9 @@
 
 California is under a [shelter-in-place order][shelter] until April 7, 2020. We
 are postponing this event until the public health emergency has passed and it is
-once again safe to travel. **New date is TBD.**
+once again safe to travel. Please take all possible precautions to stay safe.
+
+**New date is TBD.**
 
 [shelter]: https://www.sfdph.org/dph/alerts/files/HealthOrderC19-07-%20Shelter-in-Place.pdf
 
@@ -123,21 +125,23 @@ we suggest making a donation to any of the following organizations:
 
 - [The Interational Rescue Committee](https://www.rescue.org/)
 - [Larkin Street Youth Services](https://larkinstreetyouth.org/)
+- [SF Meals on Wheels](https://www.mowsf.org/)
+- [Food Runners](http://www.foodrunners.org/)
 
 <br />
 ## 🤔 FAQ
 
 ### [Coronavirus][covid-19]?
 
-~We are closely monitoring the news about Coronavirus in the Bay Area and are
+<s>We are closely monitoring the news about Coronavirus in the Bay Area and are
 taking all possible precautions: **please let us know your concerns**. We expect
 airlines to restrict domestic air travel into San Francisco if the situation
 deteriorates. **If we feel that travel to SF poses a danger, we will reschedule
 the civil ceremony for later in 2020.** We will make that decision no later than
-March 26.~
+March 26.</s>
 
-Check the [SFDPH status page][sfdph] for local updates. ~, and the [SFDPH
-FAQ][recs] for current recommendations about traveling.~
+Check the [SFDPH status page][sfdph] for local updates. <s>, and the [SFDPH
+FAQ][recs] for current recommendations about traveling.</s>
 
 [sfdph]: https://www.sfdph.org/dph/alerts/coronavirus.asp
 [recs]: https://www.sfdph.org/dph/alerts/coronavirus-faq.asp
