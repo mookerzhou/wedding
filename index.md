@@ -2,7 +2,8 @@
 layout: post
 ---
 
-![delicious](assets/asparagus.jpg){:class="img-responsive", :width="75%"}
+{: .center}
+![delicious](assets/asparagus.jpg){:class="img-responsive"}
 
 <br />
 <center><strong>We're getting married!</strong></center>
@@ -23,31 +24,19 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">10:00AM</td>
-      <td style="text-align: center; border-style: hidden;">Buro and Maggie getting ready, TBD location</td>
+      <td style="text-align: center; border-style: hidden;">Buro and Maggie Get Ready, TBD location</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">1:30M</td>
-      <td style="text-align: center; border-style: hidden;">Buro and Maggie Marriage Portraits @ UC Botanical Garden</td>
-    </tr>
-    <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">2:30PM</td>
-      <td style="text-align: center; border-style: hidden;">Ceremony Setup @ UC Botanical Garden Mather Redwood Grove</td>
-    </tr>
-    <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">3:00PM</td>
-      <td style="text-align: center; border-style: hidden;">Family and Family Guests Arrive @ UCB Botanical Garden Mather Redwood Grove (that's you!)</td>
+      <td style="border-style: hidden; text-align: center;">2:45PM</td>
+<td style="text-align: center; border-style: hidden;">Family and Family Guests Arrive @ Mather Redwood Grove (that's you!)</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">3:15PM</td>
       <td style="text-align: center; border-style: hidden;">Wedding Ceremony</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">3:30PM</td>
-      <td style="text-align: center; border-style: hidden;">Family/Friends Photos</td>
-    </tr>
-    <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">4:00PM</td>
-      <td style="text-align: center; border-style: hidden;">Exit Redwood Grove!</td>
+      <td style="text-align: center; border-style: hidden;">Walk to UC Botanical Garden</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">6:00PM</td>
@@ -88,7 +77,8 @@ Garden:
 
 **Directions**: Driving up-hill on Centennial Drive, the grove and its parking
 lot are on the left-hand side of Centennial Drive just past UC Botanical
-Garden. See the map below.
+Garden. When driving up, look out for bicyclists, hikers, and students on or
+near the road. See the map below.
 
 <br /><br />
 <div style="text-align:center">
@@ -100,7 +90,7 @@ Garden. See the map below.
 
 If you do nothing else while in town, we suggest that you visit:
 
-- SF: *Golden Gate Park* and [*Garden for the Environment*][gfe].
+- SF: Golden Gate Park and the [Garden for the Environment][gfe].
 - Berkeley: Berkeley Bowl (east or west), UC Berkeley Main Campus, Berkeley
   Hills, neighborhood stairwalks ([link 1][berkeley_paths], [link
   2][berkeley_paths1]), the view from the Lawrence Hall of Science.
@@ -108,7 +98,7 @@ If you do nothing else while in town, we suggest that you visit:
 We've also made [**this map**][sfbay_map] for key locations and recommendations
 during the week and will rent a car to ferry folks around.
 
-We **strongly recommend that you avoid**:
+We recommend that you avoid:
 
 - SF: Downtown, Fisherman's Wharf, and the Market Street corridor during the
   business week.
@@ -145,7 +135,7 @@ we suggest making a donation to any of the following organizations:
 
 ## 🤔 FAQ
 
-### [Coronavirus][covid-19]?
+### 🦠 [Coronavirus][covid-19]?
 
 _We will continue to update this section as we get closer to the ceremony date._
 
@@ -169,7 +159,7 @@ accomodations soon. A few local rules here to prepare for:
 
 <br/>
 
-### What should I wear?
+### 🧥 What should I wear?
 
 Layers! San Francisco and Berkeley can get chilly! We recommend bringing a
 jacket and a light sweater as appropriate.
