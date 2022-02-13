@@ -7,18 +7,11 @@
 </div>
 <br />
 <br />
+
 ## 📅 Schedule
 
 <table style="border-style: hidden; background-color: white" width="70%">
   <tbody>
-    <tr class="noBorder" style="background-color: white">
-      <td style="border-style: hidden; text-align: center;"> </td>
-      <td style="text-align: center; border-style: hidden;"><strong>Thursday, 2022 May 5</strong></td>
-    </tr>
-    <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">6:00PM</td>
-      <td style="text-align: center; border-style: hidden;">Dinner at our home!</td>
-    </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"> </td>
@@ -77,6 +70,7 @@
 (All times are PST.)
 
 <br />
+
 ## 👰🏻🤵🏾 The Ceremony and Venue
 
 The wedding ceremony will be held at the [Stephen T. Mather Redwood
@@ -124,6 +118,7 @@ We **strongly recommend that you avoid**:
 [berkeley_paths1]: https://socalstairclimbers.com/tag/berkeley-stair-walking/
 
 <br />
+
 ## 📸 Photos
 
 We'll share photos of the Mather Grove event in this [album][album], and will send
@@ -133,6 +128,7 @@ out print copies when they are available. Upload any photos you take to the
 [album]: https://photos.app.goo.gl/TmqBUNtuzrUn7Dxd8
 
 <br />
+
 ## 📋 Registry
 
 We do not have a registry and actually have no room for gifts! Your presence is
@@ -144,6 +140,7 @@ we suggest making a donation to any of the following organizations:
 - [Food Runners](http://www.foodrunners.org/)
 
 <br />
+
 ## 🤔 FAQ
 
 ### [Coronavirus][covid-19]?
@@ -179,6 +176,7 @@ and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 [covid-19]: https://www.cdc.gov/coronavirus/2019-ncov/summary.html
 
 <br />
+
 ## 💍 SEE YOU SOON! {#hammer-time}
 
 Here are some gifs of us [making our wedding rings][diy] to warm your heart!
