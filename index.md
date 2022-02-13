@@ -1,10 +1,11 @@
-<div style="text-align:center">
-    <img src="assets/asparagus.jpg" alt="delicious" width="75%"/>
-</div>
+---
+layout: post
+---
+
+![delicious](assets/asparagus.jpg){:class="img-responsive", :width="75%"}
+
 <br />
-<div style="text-align:center">
-    <strong>We're getting married!
-</div>
+<center><strong>We're getting married!</strong></center>
 <br />
 <br />
 
@@ -25,7 +26,7 @@
       <td style="text-align: center; border-style: hidden;">Buro and Maggie getting ready, TBD location</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">1:30-2:30PM</td>
+      <td style="border-style: hidden; text-align: center;">1:30M</td>
       <td style="text-align: center; border-style: hidden;">Buro and Maggie Marriage Portraits @ UC Botanical Garden</td>
     </tr>
     <tr style="background-color: white">
@@ -37,11 +38,11 @@
       <td style="text-align: center; border-style: hidden;">Family and Family Guests Arrive @ UCB Botanical Garden Mather Redwood Grove (that's you!)</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">3:15-3:30PM</td>
+      <td style="border-style: hidden; text-align: center;">3:15PM</td>
       <td style="text-align: center; border-style: hidden;">Wedding Ceremony</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">3:30-4:00PM</td>
+      <td style="border-style: hidden; text-align: center;">3:30PM</td>
       <td style="text-align: center; border-style: hidden;">Family/Friends Photos</td>
     </tr>
     <tr style="background-color: white">
@@ -78,7 +79,8 @@ Grove][ucb_grove] at the UC Botanical Garden at **200 Centennial Drive, Berkeley
 CA 94705**. We'll have parking available for everyone attending.
 
 The venue itself has some **special rules**: don't disturb the plants or leave
-the trail. Beverages are prohibited. In the words of the Botanical Garden:
+designated trails. Beverages are prohibited. In the words of the Botanical
+Garden:
 
 > [The Mather Redwood Grove and UC Botanical Garden] are a museum collection of
 > living plants that are not to be disturbed in any way; they have been
@@ -164,6 +166,8 @@ accomodations soon. A few local rules here to prepare for:
 
 [berkeley]: https://www.cityofberkeley.info/covid19/whats-open/
 [berkeley-covid]: https://www.berkeleyside.org/2020/03/14/covid-19-berkeley-by-the-numbers-plus-some-key-resources-to-help-you-stay-informed
+
+<br/>
 
 ### What should I wear?
 
