@@ -28,12 +28,8 @@ layout: post
       <td style="text-align: center; border-style: hidden;">Buro and Maggie Get Ready, TBD location</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">2:45PM</td>
-<td style="text-align: center; border-style: hidden;">Family and Family Guests Arrive @ Mather Redwood Grove (that's you!)</td>
-    </tr>
-    <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">3:15PM</td>
-      <td style="text-align: center; border-style: hidden;">Wedding Ceremony</td>
+      <td style="border-style: hidden; text-align: center;">3:00PM</td>
+      <td style="text-align: center; border-style: hidden;">Wedding Ceremony @ Mather Redwood Grove</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">4:00PM</td>
