@@ -3,7 +3,7 @@
 See [index.md](index.md) for actual page source, this [URL][the_marriage] for
 the rendered page.
 
-[the_marriage]: https://mookerzhou.github.io/the_marriage/
+[the_marriage]: https://mookerzhou.github.io/wedding/
 
 ## Misc.
 
@@ -24,8 +24,7 @@ Add `-flop` to `convert` to mirror about the vertical.
 
 ### Render Locally
 
-Using [grip](https://github.com/joeyespo/grip):
-
 ```
-$ grip index.md
+$ bundle install
+$ make
 ```
