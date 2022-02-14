@@ -2,8 +2,9 @@
 layout: post
 ---
 
-{: .center}
-![delicious](assets/asparagus.jpg){:class="img-responsive"}
+{:refdef: style="text-align: center;"}
+![delicious](assets/asparagus.jpg){:class="img-responsive" style="max-width: 75%; height: auto;"}
+{: refdef}
 
 <br />
 <center><strong>We're getting married!</strong></center>
