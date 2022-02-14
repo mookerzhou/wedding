@@ -123,7 +123,7 @@ We recommend that you avoid:
   business week.
 
 [gfe]: https://www.gardenfortheenvironment.org/
-[sfbay_map]: https://www.google.com/maps/d/u/1/edit?hl=en&mid=1i1y9zUZi0Qa98VZmPFJftnVRfzKyWrYX&ll=37.77388907581863%2C-122.46138887960802&z=16
+[sfbay_map]: https://www.google.com/maps/d/viewer?hl=en&mid=1i1y9zUZi0Qa98VZmPFJftnVRfzKyWrYX&ll=37.7808331084555%2C-122.25537206463261&z=11
 [ucb_grove]: https://botanicalgarden.berkeley.edu/rentals-redwood-grove
 [berkeley_paths]: https://www.berkeleypaths.org/path-list
 [berkeley_paths1]: https://socalstairclimbers.com/tag/berkeley-stair-walking/
