@@ -89,13 +89,13 @@ Garden:
 > collected in the wild at great expense and many are irreplaceable.
 
 **Directions**: Driving up-hill on Centennial Drive, the grove and its parking
-lot are on the left-hand side of Centennial Drive just past UC Botanical
-Garden. When driving up, look out for bicyclists, hikers, and students on or
-near the road. See the map below.
+lot are **on the left-hand side of Centennial Drive** just past main UC
+Botanical Garden entrance. When driving up, look out for bicyclists, hikers, and
+students on or near the road. See the map below.
 
 <br /><br />
 <div style="text-align:center">
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12597.526460153518!2d-122.2383345!3d37.8747573!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xae90a289227855b8!2sRedwood%20Grove%20Amphitheatre!5e0!3m2!1sen!2sus!4v1644203308115!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.3428438852993!2d-122.24142214901772!3d37.87566417964179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857c46306b0e89%3A0x8ec0c5ddd1e43bd!2sBotanical%20Garden%20Lot!5e0!3m2!1sen!2sus!4v1644810000818!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 <br /><br />
 
@@ -109,7 +109,7 @@ If you do nothing else while in town, we suggest that you visit:
   2][berkeley_paths1]), the view from the Lawrence Hall of Science.
 
 We've also made [**this map**][sfbay_map] for key locations and recommendations
-during the week and will rent a car to ferry folks around.
+during the week.
 
 We recommend that you avoid:
 
@@ -130,7 +130,7 @@ We'll share photos of the Mather Grove event in this [album][album], and will se
 out print copies when they are available. Upload any photos you take to the
 [album][album]!
 
-[album]: https://photos.app.goo.gl/TmqBUNtuzrUn7Dxd8
+[album]: https://photos.app.goo.gl/xdXo85k2QW2CSyR17
 
 <br />
 
