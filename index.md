@@ -19,6 +19,14 @@ layout: post
       <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"> </td>
     </tr>
+     <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;"> </td>
+      <td style="text-align: center; border-style: hidden;"><strong>Thursday, 2022 May 5</strong></td>
+    </tr>
+    <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">6:00PM?</td>
+      <td style="text-align: center; border-style: hidden;">Family welcome dinner, TBD location</td>
+    </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
       <td style="text-align: center; border-style: hidden;"><strong>Friday, 2022 May 6</strong></td>
@@ -50,6 +58,14 @@ layout: post
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">TBD</td>
       <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic (Location and Details TBD)</td>
+    </tr>
+     <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;"> </td>
+      <td style="text-align: center; border-style: hidden;"><strong>Sunday, 2022 May 8</strong></td>
+    </tr>
+    <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">11:00AM?</td>
+      <td style="text-align: center; border-style: hidden;">family goodbye brunch, TBD location, maybe dim sum</td>
     </tr>
   </tbody>
 </table>
