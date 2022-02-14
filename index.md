@@ -25,7 +25,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">6:00PM?</td>
-      <td style="text-align: center; border-style: hidden;">Family welcome dinner, TBD location</td>
+      <td style="text-align: center; border-style: hidden;">Family Welcome Dinner — TBD location</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
@@ -33,7 +33,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">10:00AM</td>
-      <td style="text-align: center; border-style: hidden;">Buro and Maggie Get Ready, TBD location</td>
+      <td style="text-align: center; border-style: hidden;">Buro and Maggie Get Ready</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">3:00PM</td>
@@ -45,7 +45,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">6:00PM</td>
-      <td style="text-align: center; border-style: hidden;">Dinner (Location and time TBD!)</td>
+      <td style="text-align: center; border-style: hidden;">Dinner — Location and time TBD!</td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
@@ -57,7 +57,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">TBD</td>
-      <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic (Location and Details TBD)</td>
+      <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic — Location and Details TBD</td>
     </tr>
      <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
@@ -65,7 +65,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">11:00AM</td>
-      <td style="text-align: center; border-style: hidden;">Family Goodbye Brunch (Location TBD)</td>
+      <td style="text-align: center; border-style: hidden;">Family Goodbye Brunch — Location TBD!</td>
     </tr>
   </tbody>
 </table>
