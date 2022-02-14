@@ -64,8 +64,8 @@ layout: post
       <td style="text-align: center; border-style: hidden;"><strong>Sunday, 2022 May 8</strong></td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">11:00AM?</td>
-      <td style="text-align: center; border-style: hidden;">family goodbye brunch, TBD location, maybe dim sum</td>
+      <td style="border-style: hidden; text-align: center;">11:00AM</td>
+      <td style="text-align: center; border-style: hidden;">Family Goodbye Brunch (Location TBD)</td>
     </tr>
   </tbody>
 </table>
