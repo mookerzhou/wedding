@@ -7,7 +7,13 @@ layout: post
 {: refdef}
 
 <br />
-<center><strong>We're getting married!</strong></center>
+<center>
+    <strong>
+        <i>
+            <font size="6">🎉&nbsp;&nbsp;We're getting married!&nbsp;&nbsp;🥳</font>
+        </i>
+    </strong>
+</center>
 <br />
 <br />
 
