@@ -183,6 +183,8 @@ accomodations soon. A few local rules here to prepare for:
 Layers! San Francisco and Berkeley can get chilly! We recommend bringing a
 jacket and a light sweater as appropriate.
 
+For the ceremony on Friday, dress code is dressy casual. For Saturday's picnic, dress code is casual.
+
 For any questions not covered, please contact [Buro](mailto:mookerji@gmail.com)
 and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
 
