@@ -142,14 +142,9 @@ out print copies when they are available. Upload any photos you take to the
 
 ## 📋 Registry
 
-We do not have a registry and actually have no room for gifts! Your presence is
-the greatest gift to us. Should you still feel the need to make a contribution,
-we suggest making a donation to any of the following organizations:
+Your presence is the greatest gift to us (really truly!).
 
-- [The Interational Rescue Committee](https://www.rescue.org/)
-- [Larkin Street Youth Services](https://larkinstreetyouth.org/)
-- [Food Runners](http://www.foodrunners.org/)
-
+For those who can't take no for an answer, we have a small registry [here](https://www.zola.com/registry/mookerzhou).
 <br />
 
 ## 🤔 FAQ
