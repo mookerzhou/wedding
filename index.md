@@ -139,7 +139,8 @@ out print copies when they are available. Upload any photos you take to the
 
 Your presence is the greatest gift to us (really truly!). We're so excited to celebrate with all of you and your support means the world.
 
-For those who can't take no for an answer, we have a small registry [here](https://www.zola.com/registry/mookerzhou).
+However, for those of you who have expressed an interest, we've created a small gift registry [here](https://www.zola.com/registry/mookerzhou).
+<br />
 <br />
 
 ## 🤔 FAQ
