@@ -63,7 +63,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">TBD</td>
-      <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic — Location and Details TBD</td>
+      <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic — More details <a href="https://mookerzhou.github.io/picnic/">here</a></td>
     </tr>
      <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
