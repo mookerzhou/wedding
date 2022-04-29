@@ -140,6 +140,21 @@ out print copies when they are available. Upload any photos you take to the
 
 <br />
 
+## 🌐 Ceremony Live Stream 
+
+For family who can't attend in-person, we've scheduled a [live
+stream](https://vimeo.com/704420461) @ 3PM PT on 6 May 2022, with a recording
+available for those who are interested! Contact us for the password.
+
+In a different timezone? Click **[here][timezones]** for the time of this event
+in your local timezone.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/704420461?h=5cfccbbc34" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div>
+
+[timezones]: https://savvytime.com/converter/pt-to-ist-germany-stuttgart-united-kingdom-london-ca-ontario-ma-boston-nc-charlotte/may-6-2022/3pm
+
+<br />
+
 ## 📋 Registry
 
 We do not have a registry and actually have no room for gifts! Your presence is
