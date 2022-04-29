@@ -47,11 +47,15 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">4:00PM</td>
-      <td style="text-align: center; border-style: hidden;">Walk to UC Botanical Garden</td>
+      <td style="text-align: center; border-style: hidden;">social time at UC Botanical Garden</td>
+    </tr>
+     <tr style="background-color: white">
+      <td style="border-style: hidden; text-align: center;">5:00PM</td>
+      <td style="text-align: center; border-style: hidden;">planned downtime--take a break before dinner! grab another layer, etc.</td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">6:00PM</td>
-      <td style="text-align: center; border-style: hidden;">Dinner — Location and time TBD!</td>
+      <td style="border-style: hidden; text-align: center;">5:45PM</td>
+      <td style="text-align: center; border-style: hidden;">Dinner — at our house outdoors! Ask us for the address. </td>
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
@@ -62,7 +66,7 @@ layout: post
       <td style="text-align: center; border-style: hidden;"><strong>Saturday, 2022 May 7</strong></td>
     </tr>
     <tr style="background-color: white">
-      <td style="border-style: hidden; text-align: center;">TBD</td>
+      <td style="border-style: hidden; text-align: center;">11:30 AM</td>
       <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic — More details <a href="https://mookerzhou.github.io/picnic/">here</a></td>
     </tr>
      <tr style="background-color: white">
@@ -71,7 +75,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">11:00AM</td>
-      <td style="text-align: center; border-style: hidden;">Family Goodbye Brunch — Location TBD!</td>
+      <td style="text-align: center; border-style: hidden;">Family Goodbye and Mother's Day Brunch — Location and time TBD!</td>
     </tr>
   </tbody>
 </table>
