@@ -63,7 +63,7 @@ layout: post
     </tr>
     <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;">TBD</td>
-      <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic — Location and Details TBD</td>
+      <td style="text-align: center; border-style: hidden;">Friends and Family Outdoor Picnic — More details <a href="https://mookerzhou.github.io/picnic/">here</a></td>
     </tr>
      <tr style="background-color: white">
       <td style="border-style: hidden; text-align: center;"> </td>
@@ -105,22 +105,17 @@ students on or near the road. See the map below.
 </div>
 <br /><br />
 
-## 🌉 What to do (and what to avoid) in the Bay Area?
+## 🌉 What to do in the Bay Area?
+
+If you're in town for longer and have some time for tourism, let us know and we can offer some personal recommendations.
 
 If you do nothing else while in town, we suggest that you visit:
 
-- SF: Golden Gate Park and the [Garden for the Environment][gfe].
-- Berkeley: Berkeley Bowl (east or west), UC Berkeley Main Campus, Berkeley
-  Hills, neighborhood stairwalks ([link 1][berkeley_paths], [link
+- SF: Golden Gate Park and the [Garden for the Environment][gfe]. We volunteered at the Garden for the Environment for several years while living in SF, so you can check out some of our handiwork!
+- Berkeley: Berkeley Bowl (east or west), UC Berkeley Main Campus, neighborhood stairwalks ([link 1][berkeley_paths], [link
   2][berkeley_paths1]), the view from the Lawrence Hall of Science.
 
-We've also made [**this map**][sfbay_map] for key locations and recommendations
-during the week.
-
-We recommend that you avoid:
-
-- SF: Downtown, Fisherman's Wharf, and the Market Street corridor during the
-  business week.
+We've also made [**this map**][sfbay_map] that includes both key locations during the week and some of our favorite places (incl. restaurants) in both SF and Berkeley. 
 
 [gfe]: https://www.gardenfortheenvironment.org/
 [sfbay_map]: https://www.google.com/maps/d/viewer?hl=en&mid=1i1y9zUZi0Qa98VZmPFJftnVRfzKyWrYX&ll=37.7808331084555%2C-122.25537206463261&z=11
@@ -157,14 +152,10 @@ in your local timezone.
 
 ## 📋 Registry
 
-We do not have a registry and actually have no room for gifts! Your presence is
-the greatest gift to us. Should you still feel the need to make a contribution,
-we suggest making a donation to any of the following organizations:
+Your presence is the greatest gift to us (really truly!). We're so excited to celebrate with all of you and your support means the world.
 
-- [The Interational Rescue Committee](https://www.rescue.org/)
-- [Larkin Street Youth Services](https://larkinstreetyouth.org/)
-- [Food Runners](http://www.foodrunners.org/)
-
+However, for those of you who have expressed an interest, we've created a small gift registry [here](https://www.zola.com/registry/mookerzhou).
+<br />
 <br />
 
 ## 🤔 FAQ
@@ -197,6 +188,8 @@ accomodations soon. A few local rules here to prepare for:
 
 Layers! San Francisco and Berkeley can get chilly! We recommend bringing a
 jacket and a light sweater as appropriate.
+
+For the ceremony on Friday, dress code is dressy casual. For Saturday's picnic, dress code is casual.
 
 For any questions not covered, please contact [Buro](mailto:mookerji@gmail.com)
 and [Maggie](mailto:emmbeezee@gmail.com), or text us directly.
